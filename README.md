@@ -23,6 +23,10 @@ development field.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+### 📊 Stats
+
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryarrovin&show_icons=true&theme=gruvbox)
+
 <!--
 **Henryarrovin/Henryarrovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
