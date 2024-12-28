@@ -10,6 +10,8 @@ on clean code practices and containerization using Docker. Seeking
 practical experience and excited to pursue a career in the software
 development field.
 
+<hr />
+
 <div align="center"> 
     <a href="mailto:henry.a.s.arrovin@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -21,6 +23,8 @@ development field.
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
     </a>
 </div>
+
+<hr />
 
 ### 🧰 Languages and Tools
 
@@ -41,6 +45,7 @@ development field.
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<hr />
 
 ### 📊 Stats
 
