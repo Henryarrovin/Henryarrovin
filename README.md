@@ -43,6 +43,9 @@ development field.
 <img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://worldvectorlogo.com/logo/bun-1" alt="Bun Logo" width="30"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://seeklogo.com/vector-logo/499529/hono" alt="Hono Logo" width="30"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://worldvectorlogo.com/logo/redux" alt="Redux Logo" width="30"/>
 <br />
 <hr />
 
