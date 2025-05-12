@@ -2,13 +2,12 @@
 
 **`Full Stack Developer`**
 
-A final year CSE student at St. Xaviers Catholic College of Engineering,
-Passionate about Java, Python, Spring Boot, MySql, MongoDB, React,
-Express, Flutter, Jenkins and machine learning frameworks like Scikit-Learn
-and TensorFlow. Strong background in full-stack development with a focus
-on clean code practices and containerization using Docker. Seeking
-practical experience and excited to pursue a career in the software
-development field.
+I’m a recent Computer Science and Engineering graduate from St. Xavier's Catholic College of Engineering
+with a strong passion for building impactful software solutions. I’ve gained hands-on experience with Java, 
+Python, Spring Boot, React, Express, MySQL, MongoDB, Flutter, and Jenkins, and have explored machine learning 
+through frameworks like Scikit-Learn and TensorFlow. My strengths lie in full-stack development, writing clean 
+and maintainable code, and leveraging Docker for containerized deployments. I’m eager to grow as a software 
+developer and contribute to meaningful projects in a collaborative, growth-driven environment.
 
 ##
 
