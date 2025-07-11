@@ -2,11 +2,13 @@
 
 **`Full Stack Developer`**
 
-I’m a recent Computer Science and Engineering graduate with a strong passion for building impactful software solutions.
-I’ve gained hands-on experience with Java, Python, Spring Boot, React, Express, MySQL, MongoDB, Flutter, and Jenkins,
-and have explored machine learning  through frameworks like Scikit-Learn and TensorFlow. My strengths lie in full-stack 
-development, writing clean and maintainable code, and leveraging Docker for containerized deployments. I’m eager to grow
-as a software developer and contribute to meaningful projects in a collaborative, growth-driven environment.
+I’m a recent Computer Science and Engineering graduate with a strong enthusiasm for software development and a deep interest in building innovative, scalable, and user-centric applications.
+My core strengths lie in full-stack development, working extensively with technologies such as Java, Spring Boot, Hibernate, React, Python, and both SQL and NoSQL databases.
+I have hands-on experience building and deploying modern web applications using Docker, JWT authentication, and RESTful APIs. I also work with React Native for creating cross-platform mobile experiences.
+Beyond full-stack development, I’ve explored the exciting domain of Generative AI, utilizing tools like Spring AI and implementing Retrieval-Augmented Generation (RAG) pipelines.
+This has enabled me to integrate Large Language Models with real-world data sources, enhancing the quality and relevance of AI-generated responses.
+Additionally, I have a foundational understanding of machine learning, working with Scikit-Learn and TensorFlow for tasks like natural language processing and sentiment analysis.
+I enjoy learning new technologies, solving real-world problems through code, and collaborating in team environments that challenge me to grow as a developer.
 
 ##
 
