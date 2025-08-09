@@ -29,7 +29,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" />
+<img align="left" alt="Spring" width="30px" heigth="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
