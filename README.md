@@ -45,7 +45,7 @@ I enjoy learning new technologies, solving real-world problems through code, and
 <img align="left" alt="Bun" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/svg/Bun.svg" />
 <img align="left" alt="Hono" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Hono-logo.svg" />
 <img align="left" alt="redux" width="30px" style="padding-right:10px;" src="https://redux.js.org/img/redux.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://www.svgrepo.com/show/475654/github-color.svg" />
 <br />
 <br />
 <hr />
