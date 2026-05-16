@@ -2,10 +2,7 @@
 
 **`Full Stack Developer`**
 
-Software Engineer with hands-on experience in backend development using Golang and Java (Spring Boot). 
-Experienced in building and maintaining microservices, developing RESTful APIs, and working with HTTP and gRPC for efficient service communication. 
-Demonstrated ability to integrate third-party APIs, develop workflows, and resolve issues across Dev, QA, UAT, and Production environments. 
-Proficient in containerising applications with Docker and working with relational and NoSQL databases.
+Software Engineer with hands-on experience in backend development using Golang and Java (Spring Boot). Experienced in building and maintaining microservices, developing RESTful APIs, and working with HTTP and gRPC for efficient service communication. Demonstrated ability to integrate third-party APIs, develop workflows, and resolve issues across Dev, QA, UAT, and Production environments. Proficient in containerising applications with Docker and working with relational and NoSQL databases. Familiar with building and working with MCP (Model Context Protocol) servers for AI-powered application integrations. Seeking a software developer role in a collaborative, growth-oriented team.
 
 ##
 
